@@ -21,3 +21,9 @@ Knowledge Graph,Question Answering System，基于知识图谱和向量检索的
 1. https://github.com/wangle1218/KBQA-for-Diagnosis
 
 
+# 4. Citation
+If you use this software in your work, please cite it using the following metadata.
+
+```
+
+```
