@@ -4,7 +4,8 @@ Knowledge Graph,Question Answering System，基于知识图谱和向量检索的
 [[doc](https://easydoc.net/doc/84261587/TevBXTHz/gsaJm7M6)] 
 
 # 1 Model Structure
-![](https://i.imgur.com/PxJMX8J.png)
+![](https://i.imgur.com/FYBIzv8.png)
+
 
 # 2 Reproduction & Workflow
 ## Full reproduction (build from scratch): 
