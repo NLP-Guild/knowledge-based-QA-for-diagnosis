@@ -25,5 +25,8 @@ Knowledge Graph,Question Answering System，基于知识图谱和向量检索的
 If you use this software in your work, please cite it using the following metadata.
 
 ```
-
+@software{Xiang_Knowledge-based-QA-for-Diagnosis,
+author = {Xiang, Tao},
+title = {{Knowledge-based-QA-for-Diagnosis}}
+}
 ```
