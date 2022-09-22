@@ -16,7 +16,7 @@ Knowledge Graph,Question Answering System，基于知识图谱和向量检索的
 5. entity-linking logic [[colab](https://colab.research.google.com/gist/leoxiang66/482c4c20e0945b7a150f8a95a00b14d9/entity_linking_text-similarity.ipynb)]
 
 ## Minimal reproduciton (direct usage)
-
+[[example](https://colab.research.google.com/gist/leoxiang66/c1de5fc96f95fe9707915e695ca4a76e/conversation.ipynb)]
 # 3 Reference
 1. https://github.com/wangle1218/KBQA-for-Diagnosis
 
